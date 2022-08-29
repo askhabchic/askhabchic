@@ -2,7 +2,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askhabchic)](https://github.com/askhabchic/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askhabchic&hide=php)](https://github.com/askhabchic/github-readme-stats)
-<img src="https://komarev.com/ghpvc/?username=askhabchic&style=flat-square&color=blue" alt=""/>
+<h1>
+<img src="https://komarev.com/ghpvc/?username=askhabchic&style=flat-square&color=blue" alt=""/></h>
 
 <!--
 **askhabchic/askhabchic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
