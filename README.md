@@ -1,9 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askhabchic&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askhabchic&layout=compact&theme=vision-friendly-dark&hide=php)](https://github.com/askhabchic/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askhabchic&hide=php, js)](https://github.com/askhabchic/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askhabchic&layout=compact&theme=vision-friendly-dark&hide=php, javascript)](https://github.com/askhabchic/github-readme-stats)
 
 <h1>
 <img src="https://komarev.com/ghpvc/?username=askhabchic&style=flat-square&color=blue" alt=""/></h>
