@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askhabchic)](https://github.com/askhabchic/github-readme-stats)
+(https://github-readme-streak-stats.herokuapp.com/?user=askhabchic)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askhabchic&hide=php)](https://github.com/askhabchic/github-readme-stats)
 <h1>
